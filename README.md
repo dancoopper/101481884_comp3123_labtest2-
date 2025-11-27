@@ -1,7 +1,7 @@
 # COMP3123 Lab Test 2
 
 ## This is the search screen 
-![search](/public/search.png)
+![search](/public/Search.png)
 ### This is the first screen you see when you open the app, it has a search bar and a search button and lets the user search for a city.
 ## This is the weather screen 
 ![weather](/public/Denver.png)
